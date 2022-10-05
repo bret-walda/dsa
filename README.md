@@ -1,2 +1,2 @@
-# Solution for the Longest Substring Without Repeating Characters.
-# Using the Sliding Window Algorithm.
+# Solution for the Longest Substring Without Repeating Characters. Using the Sliding Window Algorithm.
+
